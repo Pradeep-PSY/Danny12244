@@ -30,3 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danny12244&show_icons=true&locale=en" alt="danny12244" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danny12244&" alt="danny12244" /></p>
+
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) <br/>
