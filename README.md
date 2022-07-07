@@ -5,6 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danny12244&label=Profile%20views&color=0e75b6&style=flat" alt="danny12244" /> </p>
 
+
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{Danny12244}/count.svg" alt="Danny!2244 :: Visitor's Count" /></p>
+
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [pradeep-yadav.vercel.app](pradeep-yadav.vercel.app)
