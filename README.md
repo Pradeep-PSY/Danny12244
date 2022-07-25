@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [pradeep-yadav.vercel.app](pradeep-yadav.vercel.app)
 
-- 💬 Ask me about **HTML, CSS, JS.**
+- 💬 Ask me about **HTML, CSS, JS, React, Redux, Mui, Chakra-Ui, Bootstrap**
 
 - 📫 How to reach me **pradeep.py725@gmail.com**
 
