@@ -7,7 +7,7 @@
 
 
 <h4 align="left">Visitor's count :eyes:</h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danny12244&label=Profile%20views&color=0e75b6&style=flat" alt="danny12244" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pradeep-PSY&label=Profile%20views&color=0e75b6&style=flat" alt="Pradeep-PSY" /> </p>
 
 
 
