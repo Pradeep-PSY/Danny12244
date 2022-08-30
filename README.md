@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [pradeep-yadav.vercel.app](pradeep-yadav.vercel.app)
+- 👨‍💻 All of my projects are available at [pradeep-yadav.vercel.app](https://pradeep-yadav.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, JS, React, Redux, Mui, Chakra-Ui, Bootstrap**
 
