@@ -34,11 +34,11 @@
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="redux" width="40" height="40"/> </a> 
 <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg" alt="redux" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danny12244&show_icons=true&locale=en&layout=compact" alt="danny12244" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pradeep-PSY&show_icons=true&locale=en&layout=compact" alt="Pradeep-PSY" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danny12244&show_icons=true&locale=en" alt="danny12244" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pradeep-PSY&show_icons=true&locale=en" alt="Pradeep-PSY" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danny12244&" alt="danny12244" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pradeep-PSY&" alt="Pradeep" /></p>
 
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) <br/>
