@@ -14,13 +14,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [pradeep-yadav.vercel.app](https://pradeep-yadav.vercel.app/)
+- 👨‍💻 All of my projects are available at [pradeepy-portfolio.vercel.app](https://pradeepy-portfolio.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, JS, React, Redux, Mui, Chakra-Ui, Bootstrap**
 
 - 📫 How to reach me **pradeep.py725@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DgRsYYkcyKC72pfzsCQiMzdMIUhwMxvv/view?usp=sharing](https://drive.google.com/file/d/1DgRsYYkcyKC72pfzsCQiMzdMIUhwMxvv/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1wmzt-AV0Hq62l2yrflWKfXT45bQEokJk/view?usp=sharing)
 
 - ⚡ Fun fact **I am not Funny**
 
